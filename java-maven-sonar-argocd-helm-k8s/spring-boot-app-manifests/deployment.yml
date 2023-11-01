@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: fatima021/ultimate-cicd-demo:replaceImageTag
+        image: fatima021/ultimate-cicd-demo:9
         ports:
         - containerPort: 8080
